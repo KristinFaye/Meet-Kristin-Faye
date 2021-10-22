@@ -6,7 +6,7 @@
 
 
 .hero-image {
-  background-image: url("file:///Users/kristinfaye/Desktop/33.jpeg");
+  background-image: url("./33.jpeg");
   background-color: #cccccc;
   height: 600px;
   background-position: center;
